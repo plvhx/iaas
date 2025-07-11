@@ -17,5 +17,5 @@ Get your insult of the day:
 
 ```
 $ curl -X GET http://localhost:3000/insult
-$ {"id":19,"content":"Boy, sit your $5 dollar ass down before I make change!"}
+{"id":19,"content":"Boy, sit your $5 dollar ass down before I make change!"}
 ```
